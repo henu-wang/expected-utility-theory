@@ -1,2 +1,17 @@
-# expected-utility-theory
-Decision-making framework - https://keeprule.com
+# Expected Utility Theory
+
+Von Neumann-Morgenstern expected utility theory explained. Part of [KeepRule](https://keeprule.com) ecosystem.
+
+## Features
+- Framework documentation
+- Real-world examples
+- Practical exercises
+
+## Resources
+- [Principles](https://keeprule.com/en/masters)
+- [Explore](https://keeprule.com/en/principles)
+- [Learn More](https://keeprule.com/en/scenarios)
+- [Blog](https://keeprule.com/en/blog)
+
+## License
+MIT
